@@ -32,7 +32,7 @@ class Main extends Component{
 
         scores = (val) => {
          if(val)
-         {
+         {/*
              if(this.state.topScore === 0){
              this.state.topScore = this.state.score
              }
@@ -46,7 +46,9 @@ class Main extends Component{
          }
         else
             this.state.score++
+            */
         }
+    }
 
         
         Match = () => {
