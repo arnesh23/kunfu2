@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "d236f0c2068c02658b89",
-    "url": "/kunfu2/static/js/main.d236f0c2.chunk.js"
+    "revision": "db74f9968dfdc6d4842c",
+    "url": "/kunfu2/static/js/main.db74f996.chunk.js"
   },
   {
     "revision": "a281d9ca0c02188711c6",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/kunfu2/static/js/runtime~main.065efe5c.js"
   },
   {
-    "revision": "6d39aa26701559d300f1b40745148a41",
+    "revision": "174017f97695014bb08fe810bdbfb309",
     "url": "/kunfu2/index.html"
   }
 ];
