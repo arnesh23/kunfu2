@@ -65,7 +65,7 @@ render() {
     {this.changeScores()}
       <Row>
         <Col size="md-4">
-            <h3> <a href = "/"><strong>Clicky Game</strong></a></h3>  
+            <h3> <a href = "/" value = "pic"><strong>Clicky Game</strong></a></h3>  
         </Col>
         <Col size="md-4">
             <h3> <strong>Click an Image to begin! </strong></h3>  
