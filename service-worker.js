@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kunfu2/precache-manifest.b55916de77afbf99c9908b3e0746863a.js"
+  "/kunfu2/precache-manifest.02940c0b1e54416a1a67b4a461746757.js"
 );
 
 workbox.clientsClaim();
